@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @farmurey
-- 👀 I’m interested in SAS programming
-- 🌱 I’m currently learning SAS SQL and Macros
-- 💞️ I’m looking to collaborate on SAS programming and projects
+- 👀 I’m interested in Machine Learning, Data Science, Gen AI, NLPs 
+- 🌱 I’m currently learning Python and Machine Learning
+- 💞️ I’m looking to collaborate on Data Science and Machine LearningProjects
 - 📫 How to reach me ...
 
 <!---
