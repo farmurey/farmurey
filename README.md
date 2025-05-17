@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Farhana (farmurey)
+# 👋 Hi, I am Farhana (farmurey)
 
-I'm a data scientist and GenAI enthusiast passionate about building practical, real-world applications that help people. From NLP-powered chatbots to city budget analyzers and spelling practice tools for kids — I love making data useful and usable.
+I am a data scientist and GenAI enthusiast passionate about building practical, real-world applications that help people. From NLP-powered chatbots to city budget analyzers and spelling practice tools for kids, I love making data useful and usable.
 
 ---
 
@@ -9,7 +9,7 @@ I'm a data scientist and GenAI enthusiast passionate about building practical, r
 - **Languages:** Python, SQL, JavaScript
 - **Libraries/Frameworks:** Pandas, Streamlit, Scikit-learn, LangChain, GPT APIs
 - **Data/AI:** Generative AI, NLP, Embeddings, LLM orchestration
-- **Tools:** Git, VS Code, GitHub Actions, Streamlit Cloud, Docker (WIP)
+- **Tools:** Git, VS Code, GitHub Actions, Streamlit Cloud, Docker 
 
 ---
 
