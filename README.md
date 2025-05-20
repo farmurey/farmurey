@@ -15,13 +15,16 @@ I am a data scientist and GenAI enthusiast passionate about building practical, 
 
 ## 🚀 Featured Projects
 
-### 🐝 [Spelling Bee App][(https://spelling-bee-app.streamlit.app/)]
-Helps kids practice spelling through a clean UI and automatic pronunciation using Google Text-to-Speech.  
-→ [View on GitHub]((https://github.com/farmurey/spelling-bee-app))]
+### 🐝 [Spelling Bee App](https://spelling-bee-app.streamlit.app/)
+An interactive spelling quiz app designed for kids. Features a clean UI and uses Google Text-to-Speech for automatic pronunciation.  
+🔗 [View on GitHub](https://github.com/farmurey/Custom_spelling_bee)
 
-### 📊 City Budget Insights Tool (In Progress)
-RAG-powered tool to query city budget PDFs and extract clean summaries and visualizations.  
-Built with Python, Streamlit, and Claude/OpenAI APIs.
+---
+
+### 📊 City Budget Insights Tool *(In Progress)*
+A Retrieval-Augmented Generation (RAG) system to analyze city budget PDFs. Supports natural language queries and extracts summaries and visualizations using Claude/OpenAI APIs.  
+Tech: Python, Streamlit, FastAPI, PyMuPDF, ChromaDB  
+🔗 [View Repository](https://github.com/farmurey/CityBudget_RAG)
 
 ---
 
