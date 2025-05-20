@@ -21,7 +21,7 @@ An interactive spelling quiz app designed for kids. Features a clean UI and uses
 
 ---
 
-### 📊 City Budget Insights Tool *(In Progress)*
+### 📊 City Budget Insights Tool 
 A Retrieval-Augmented Generation (RAG) system to analyze city budget PDFs. Supports natural language queries and extracts summaries and visualizations using Claude/OpenAI APIs.  
 Tech: Python, Streamlit, FastAPI, PyMuPDF, ChromaDB  
 🔗 [View Repository](https://github.com/farmurey/CityBudget_RAG)
