@@ -17,6 +17,7 @@ I am a data scientist and GenAI enthusiast passionate about building practical, 
 
 ### 🐝 [Spelling Bee App](https://spelling-bee-app.streamlit.app/)
 An interactive spelling quiz app designed for kids. Features a clean UI and uses Google Text-to-Speech for automatic pronunciation.  
+Built to help my daughter practice independently. 🎉 She went on to win her school spelling bee!
 🔗 [View on GitHub](https://github.com/farmurey/Custom_spelling_bee)
 
 ---
